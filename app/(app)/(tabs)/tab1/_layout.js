@@ -5,7 +5,7 @@ export default function Tab1() {
 
   return (
     <View style={styles.container}>
-      <Text>tab1</Text>
+      <Text style={{fontSize: 50}}>Tab1</Text>
     </View>
   );
 }
@@ -14,5 +14,6 @@ export default function Tab1() {
 const styles = StyleSheet.create({
   container: {
     flex:1,
+    backgroundColor: 'red',
   },
 })

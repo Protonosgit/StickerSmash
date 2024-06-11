@@ -6,7 +6,7 @@ export default function Tab3() {
   return (
     
     <View style={styles.container}>
-      <Text>Tab3</Text>
+      <Text style={{fontSize: 50}}>Tab3</Text>
     </View>
   );
 }
@@ -14,5 +14,6 @@ export default function Tab3() {
 const styles = StyleSheet.create({
   container: {
     height: '100%',
+    backgroundColor: 'blue',
   },
 })

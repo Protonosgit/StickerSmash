@@ -5,7 +5,7 @@ export default function Tab2() {
 
   return (
     <View style={styles.container}>
-        <Text>Tab2</Text>
+        <Text style={{fontSize: 50}}>Tab2</Text>
     </View>
 
   );

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602040164753",
+    "project_id": "fcm-is-broken-af",
+    "storage_bucket": "fcm-is-broken-af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602040164753:android:cf4c2c91f03398646dba30",
+        "android_client_info": {
+          "package_name": "com.stickersmash.dummyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06nrgQD4fsJ-lMyAAXPvbilhPntxmxBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
